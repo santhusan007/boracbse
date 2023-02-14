@@ -157,6 +157,7 @@ body {
 .admissions{
    
         /* referring directly to the animation's @keyframe declaration */
+        
         animation: bounceIn .8s infinite 
 }
 .topper-div{
